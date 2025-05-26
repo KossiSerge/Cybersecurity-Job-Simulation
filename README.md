@@ -1,4 +1,4 @@
-## Cybersecurity-Job-Simulation
+## Risk Manager Job Simulation
 
 #### Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients
 
